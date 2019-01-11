@@ -1,7 +1,7 @@
 # WSDM2019
 WSDM Cup 2019 Fake News Classification
 1)	模型准备
-提前下载（链接:https://pan.baidu.com/s/1scGm6HNNQlRDpEvEngBalQ  密码:omqt）3个bert预训练模型于data/bert/路径下：
+提前下载Google的3个bert预训练模型于data/bert/路径下：
 chinese_L-12_H-768_A-12
 uncased_L-24_H-1024_A-16
 uncased_L-12_H-768_A-12
