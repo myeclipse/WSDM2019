@@ -1,4 +1,4 @@
-# WSDM2019
+# WSDM2019 第二名
 WSDM Cup 2019 Fake News Classification
 1)	模型准备
 提前下载Google的3个bert预训练模型于data/bert/路径下：
